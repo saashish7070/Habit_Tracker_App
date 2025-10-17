@@ -26,7 +26,7 @@ It includes daily habit tracking, reminders, dark/light mode, and local data sto
 
 ## ⚙️ Setup
 ```bash
-git clone https://github.com/saashish7070/habit_tracker_app.git
+git clone https://github.com/saashish7070/Habit_Tracker_App.git
 cd habit_tracker_app
 flutter pub get
 flutter run
