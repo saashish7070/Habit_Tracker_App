@@ -1,16 +1,32 @@
-# habit_tracker
+# 📆 Habit Tracker App
 
-A new Flutter project.
+A simple and interactive **Flutter Habit Tracker App** to help users build better routines.  
+It includes daily habit tracking, reminders, dark/light mode, and local data storage — built with **Flutter**, **Provider**, and **Shared Preferences**.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
+- Add, edit, and delete habits  
+- Swipe to mark habits as completed or delete  
+- Daily reminder notifications  
+- Light & dark mode support  
+- Offline data storage using Shared Preferences  
+- State management with Provider  
+- Clean and responsive UI  
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🧩 Tech Stack
+**Frontend:** Flutter, Dart  
+**State Management:** Provider  
+**Local Storage:** Shared Preferences  
+**Tools:** Android Studio, Git  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## ⚙️ Setup
+```bash
+git clone https://github.com/<your-username>/habit_tracker_app.git
+cd habit_tracker_app
+flutter pub get
+flutter run
